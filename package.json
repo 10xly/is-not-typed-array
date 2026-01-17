@@ -1,0 +1,28 @@
+{
+  "name": "is-not-typed-array",
+  "version": "1.0.1",
+  "description": "Check if a value is NOT a typed array.",
+  "keywords": [
+    "array",
+    "not",
+    "is"
+  ],
+  "homepage": "https://github.com/10xly/is-not-typed-array#readme",
+  "bugs": {
+    "url": "https://github.com/10xly/is-not-typed-array/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/10xly/is-not-typed-array.git"
+  },
+  "license": "UNLICENSED",
+  "author": "me",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "is-typed-array": "^1.1.15"
+  }
+}

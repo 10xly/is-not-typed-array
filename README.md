@@ -1,0 +1,1 @@
+returns true if a value is not a typed array
